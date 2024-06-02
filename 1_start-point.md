@@ -1,0 +1,57 @@
+# Start point
+
+## Contents I'm using for AWS Cloud Practitioner CLF-C02:
+
+- Free
+  - https://www.youtube.com/watch?v=SD4mhgIsJGo&list=PL0AYtrUw-NRSeLkKIURK3FXoDk1CIgqct&ab_channel=TheTechBlackBoard
+  - https://www.youtube.com/watch?v=CqtC5_sMd90&list=PLK2b5y9F1DqaTWBrcxKMdwChTOAOBiksx&ab_channel=JeanDiogo
+  - https://www.youtube.com/watch?v=NhDYbskXRgc&ab_channel=freeCodeCamp.org
+    - I'm at min: 46:00
+    - free questions https://www.exampro.co/clf-c02
+- Payed
+  - https://www.udemy.com/course/aws-certified-cloud-practitioner-new/learn/lecture/19891628?start=0
+  - https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/learn/quiz/4915789#overview
+
+## Exam guide:
+
+- https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf
+
+## AWS Official Content:
+
+- AWS Skill Builder: https://explore.skillbuilder.aws/learn
+- Examp prep. questions: https://explore.skillbuilder.aws/learn/course/external/view/elearning/14050/aws-certified-cloud-practitioner-official-practice-question-set-clf-c02-english (free)
+- Content Cloud practitioner essentials: https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials (free)
+- Prep: https://explore.skillbuilder.aws/learn/course/external/view/elearning/16434/exam-prep-standard-course-aws-certified-cloud-practitioner-clf-c02-english
+- Prep2: https://explore.skillbuilder.aws/learn/course/external/view/elearning/14637/aws-certified-cloud-practitioner-official-practice-exam-clf-c02-english
+
+## Requirements
+
+## Explain the value of the AWS Cloud.
+
+- Understand and explain the AWS shared responsibility model.
+- Understand security best practices.
+- Understand AWS Cloud costs, economics, and billing practices.
+- Describe and position the core AWS services, including compute, network,
+  database, and storage services.
+- Identify AWS services for common use cases.
+
+## More
+
+- AWS Cloud concepts
+  - Security and compliance in the AWS Cloud
+  - Core AWS services
+  - Economics of the AWS Cloud
+- Domains
+  - Domain 1: Cloud Concepts (24% of scored content)
+  - Domain 2: Security and Compliance (30% of scored content)
+  - Domain 3: Cloud Technology and Services (34% of scored content)
+  - Domain 4: Billing, Pricing, and Support (12% of scored content)
+
+## Certification policies and online exam: (read before exam day)
+
+- https://aws.amazon.com/certification/policies
+- https://home.pearsonvue.com/onvue-tips
+- https://home.pearsonvue.com/aws/onvue
+- https://home.pearsonvue.com/aws/onvue#onExamDay
+- https://home.pearsonvue.com/op/OnVUE-technical-requirements
+- https://home.pearsonvue.com/aws/onvue?ot=collapse7
