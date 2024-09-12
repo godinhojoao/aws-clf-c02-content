@@ -4,7 +4,7 @@
 
 - Client make a Network request to a Server.
 - Servers are made of:
-  - Compute: CPU + Memory: RAM = "Brain"
+  - Compute: CPU + Memory RAM = "Brain"
   - Database: Store data in a structured way ("long-term", hard-disk)
 - Network: Cables, routers and servers connected with each other.
   - Router: A networking device that forwards data packets between computer networks. They know where to send your packets on the internet.
@@ -34,6 +34,7 @@
 
 - Is the on-demand delivery of compute power, database storage, applications and other IT resources.
 - Through a cloud services platform with pay-as-you-go pricing.
+  - pay-as-you-go: the same as you do with your electricity bill.
 - Provision exactly the right type and size of computing resources you need.
 - Access as many resources as you need, instantly.
 - Simple way to access servers, storage, databases and a set of application services.
@@ -50,6 +51,7 @@
   - Six Advantages of Cloud Computing (added below at this page)
 - **Hybrid Cloud:**
   - Keep some servers on premises and extend some capabilities to the Cloud.
+    - On AWS you can do that with [AWS Outposts](https://aws.amazon.com/outposts/).
   - Control over sensitive assets in your private infrastructure.
   - Flexibility and cost-effectiveness of the public cloud.
 
@@ -91,16 +93,15 @@
 
 ## Different types of Cloud computing
 
-- **Infrastructure as a Service (IaaS):** (AWS EC2, S3, VPC...)
+- **Infrastructure as a Service (IaaS):** (AWS EC2, VPC...)
   - Provide building blocks for cloud IT.
   - Provides networking, computers, data storage space.
   - Highest level of flexibility.
   - Easy parallel with traditional on-premises IT.
-- **Platform as a Service (PaaS):** (AWS Lambda, Elastic Beanstalk, ECS, Gateway, Amplify...)
+- **Platform as a Service (PaaS):** (AWS Lambda, Elastic Beanstalk, ECS, Amplify...)
   - Removes the need for your organization to manage the underlying infrastructure.
   - Focus on deployment and management of the application.
 - **Software as a Service (SaaS):** (Gmail...)
-
   - Completed product that is run and managed by the service provider.
 
 - **On-premise you need to manage:**

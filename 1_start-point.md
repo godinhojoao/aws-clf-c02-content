@@ -6,8 +6,12 @@
   - https://www.youtube.com/watch?v=SD4mhgIsJGo&list=PL0AYtrUw-NRSeLkKIURK3FXoDk1CIgqct&ab_channel=TheTechBlackBoard
   - https://www.youtube.com/watch?v=CqtC5_sMd90&list=PLK2b5y9F1DqaTWBrcxKMdwChTOAOBiksx&ab_channel=JeanDiogo
   - https://www.youtube.com/watch?v=NhDYbskXRgc&ab_channel=freeCodeCamp.org
-    - I'm at min: 46:00
-    - free questions https://www.exampro.co/clf-c02
+    - free questions
+      - https://www.exampro.co/clf-c02
+      - https://quizlet.com/392359849/aws-cloud-practitioner-exam-questions-flash-cards/?i=2u6uqa&x=1jqY
+      - https://explore.skillbuilder.aws/learn/course/internal/view/elearning/14704/aws-skills-centers-becoming-a-cloud-practitioner-mini-quiz-review
+      - https://explore.skillbuilder.aws/learn/course/internal/view/elearning/14705/aws-skills-centers-becoming-a-cloud-practitioner-half-quiz-review
+      - https://explore.skillbuilder.aws/learn/course/internal/view/elearning/14703/aws-skills-centers-becoming-a-cloud-practitioner-full-quiz-review
 - Payed
   - https://www.udemy.com/course/aws-certified-cloud-practitioner-new/learn/lecture/19891628?start=0
   - https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/learn/quiz/4915789#overview
@@ -16,13 +20,18 @@
 
 - https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf
 
-## AWS Official Content:
+## AWS Content:
 
 - AWS Skill Builder: https://explore.skillbuilder.aws/learn
-- Examp prep. questions: https://explore.skillbuilder.aws/learn/course/external/view/elearning/14050/aws-certified-cloud-practitioner-official-practice-question-set-clf-c02-english (free)
-- Content Cloud practitioner essentials: https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials (free)
-- Prep: https://explore.skillbuilder.aws/learn/course/external/view/elearning/16434/exam-prep-standard-course-aws-certified-cloud-practitioner-clf-c02-english
-- Prep2: https://explore.skillbuilder.aws/learn/course/external/view/elearning/14637/aws-certified-cloud-practitioner-official-practice-exam-clf-c02-english
+- Examp prep. questions: https://explore.skillbuilder.aws/learn/course/external/view/elearning/14050/aws-certified-cloud-practitioner-official-practice-question-set-clf-c02-english
+- Content Cloud practitioner:
+  - https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials
+  - https://explore.skillbuilder.aws/learn/course/internal/view/elearning/20511/aws-skills-centers-becoming-a-cloud-practitioner-part-1-cloud-basics
+  - https://explore.skillbuilder.aws/learn/course/internal/view/elearning/20713/aws-skills-centers-becoming-a-cloud-practitioner-part-2-compute-networking-and-account-strategies
+- Prep courses:
+  - https://explore.skillbuilder.aws/learn/course/external/view/elearning/16434/exam-prep-standard-course-aws-certified-cloud-practitioner-clf-c02-english
+  - https://explore.skillbuilder.aws/learn/course/external/view/elearning/14637/aws-certified-cloud-practitioner-official-practice-exam-clf-c02-english
+- https://roadmap.sh/aws
 
 ## Requirements
 
