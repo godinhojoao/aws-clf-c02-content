@@ -106,6 +106,6 @@
     - Has an RSS (brief introduction) feed you can subscribe to.
     - Previously called AWS Service Health Dahsboard.
 
-  ### - Your account - stauts of AWS services of your account resources
+  ### - Your account - status of AWS services of your account resources
     - Provides alerts (notifications) and remediation guidance when AWS is experiencing events that may impact you.
     - AWS outages directly impact you.
