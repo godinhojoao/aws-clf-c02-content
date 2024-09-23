@@ -13,7 +13,7 @@
 - **Purpose**: Automatically converts spoken language into written text.
 - **Key Features**: Supports multiple languages, PII redaction, and speaker identification.
 
-## Polly: text to audio
+## Polly: text to audio - (lifelike speech)
 
 - **Purpose**: Converts written text into natural-sounding speech.
 - **Key Features**: Variety of voices and languages, real-time streaming capabilities.
@@ -33,7 +33,7 @@
 - **Purpose**: Cloud-based solution for managing customer interactions.
 - **Key Features**: Scalable, integrates with CRM systems, and reduces operational costs.
 
-## Comprehend: natural language processing
+## Comprehend: natural language processing (e.g.: group articles by topics)
 
 - **Purpose**: Extracts insights and relationships from text data.
 - **Key Features**: Sentiment analysis, entity recognition, and key phrase extraction.

@@ -4,7 +4,8 @@
 
 - Free
   - https://www.youtube.com/watch?v=SD4mhgIsJGo&list=PL0AYtrUw-NRSeLkKIURK3FXoDk1CIgqct&ab_channel=TheTechBlackBoard
-  - https://www.youtube.com/watch?v=CqtC5_sMd90&list=PLK2b5y9F1DqaTWBrcxKMdwChTOAOBiksx&ab_channel=JeanDiogo
+  - https://www.youtube.com/watch?v=JsmhEgIV1mQ&t
+  - https://www.youtube.com/watch?v=ABlVM-b5w0c&list=PLzde74P_a04cyCsmZakYbUE5sWN9dZ-Ux
   - https://www.youtube.com/watch?v=NhDYbskXRgc&ab_channel=freeCodeCamp.org
     - free questions
       - https://www.exampro.co/clf-c02
