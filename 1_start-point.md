@@ -8,7 +8,6 @@
   - https://www.youtube.com/watch?v=ABlVM-b5w0c&list=PLzde74P_a04cyCsmZakYbUE5sWN9dZ-Ux
   - https://www.youtube.com/watch?v=NhDYbskXRgc&ab_channel=freeCodeCamp.org
     - free questions
-      - https://www.exampro.co/clf-c02
       - https://quizlet.com/392359849/aws-cloud-practitioner-exam-questions-flash-cards/?i=2u6uqa&x=1jqY
       - https://explore.skillbuilder.aws/learn/course/internal/view/elearning/14704/aws-skills-centers-becoming-a-cloud-practitioner-mini-quiz-review
       - https://explore.skillbuilder.aws/learn/course/internal/view/elearning/14705/aws-skills-centers-becoming-a-cloud-practitioner-half-quiz-review
