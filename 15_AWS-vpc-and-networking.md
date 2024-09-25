@@ -41,7 +41,7 @@
 - Public Subnets have a route to the Internet Gateway.
   - Internet Gateway <-> Public Subnet
 - **NAT Gateways (AWS-Managed) and NAT Instances (self-managed)**
-  - Allow your instances in your **Private Subnets** to access the internet while ramaining private.
+  - Allow your instances in your **Private Subnets** to access the internet while remaining private.
 
 ## Network ACL and Security Groups
 

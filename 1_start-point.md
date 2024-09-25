@@ -23,7 +23,7 @@
 ## AWS Content:
 
 - AWS Skill Builder: https://explore.skillbuilder.aws/learn
-- Examp prep. questions: https://explore.skillbuilder.aws/learn/course/external/view/elearning/14050/aws-certified-cloud-practitioner-official-practice-question-set-clf-c02-english
+- **Examp prep. questions**: https://explore.skillbuilder.aws/learn/course/external/view/elearning/14050/aws-certified-cloud-practitioner-official-practice-question-set-clf-c02-english
 - Content Cloud practitioner:
   - https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials
   - https://explore.skillbuilder.aws/learn/course/internal/view/elearning/20511/aws-skills-centers-becoming-a-cloud-practitioner-part-1-cloud-basics
