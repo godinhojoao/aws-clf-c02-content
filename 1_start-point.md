@@ -13,8 +13,8 @@
       - https://explore.skillbuilder.aws/learn/course/internal/view/elearning/14705/aws-skills-centers-becoming-a-cloud-practitioner-half-quiz-review
       - https://explore.skillbuilder.aws/learn/course/internal/view/elearning/14703/aws-skills-centers-becoming-a-cloud-practitioner-full-quiz-review
 - Payed
-  - https://www.udemy.com/course/aws-certified-cloud-practitioner-new/learn/lecture/19891628?start=0
-  - https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/learn/quiz/4915789#overview
+  - https://www.udemy.com/course/aws-certified-cloud-practitioner-new/
+  - https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/
 
 ## Exam guide:
 
