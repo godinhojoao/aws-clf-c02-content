@@ -54,7 +54,7 @@
   - **Flexible Sharing**: Share with any AWS account or within your Organization.
   - **Supported Resources**: Includes Aurora, VPC Subnets, Transit Gateway, Route 53, EC2 Dedicated Hosts, License Manager Configurations, and more.
 
-## AWS Service Catalog
+## AWS Service Catalog - (control what services can be used in an Organization)
 
 - AWS Service Catalog helps new users navigate AWS options and launch compliant, pre-defined products.
 - **Key Features**:
