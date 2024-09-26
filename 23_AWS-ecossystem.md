@@ -22,7 +22,7 @@
 
 - Connect with AWS Certified experts for project-based work and secure collaboration.
 
-### AWS re:Post
+### AWS re:Post - (community with experts to answer technical questions)
 
 - Community-driven Q&A for AWS technical questions; replaces AWS Forums.
 
@@ -30,6 +30,6 @@
 
 - Repository for common questions and requests: [Knowledge Center](https://repost.aws/knowledge-center).
 
-# AWS Managed Services (AMS)
+# AWS Managed Services (AMS) - (AWS experts team to provide you infrastructure management)
 
 - Provides infrastructure and application support with a focus on security, reliability, and operational efficiency.
