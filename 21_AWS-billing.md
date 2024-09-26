@@ -91,6 +91,12 @@
 - **AWS Billing Dashboard**: Monitor billing details.
 - **AWS Free Tier Dashboard**: Track usage of free tier services.
 
+## Total Cost of Ownership (TCO)
+
+- TCO compares the cost of maintaining your own on-premise servers (hardware, power, cooling, labor) with the cost of using AWS cloud services
+- Total Cost of Ownership (TCO) in AWS is the overall cost of using cloud services, including compute, storage, networking, and optimization options to reduce expenses.
+- **AWS Pricing Calculator** can help you to estimate your TCO - Total Cost of Ownership.
+
 ### Cost Allocation Tags
 
 - **Purpose**: Track AWS costs in detail.

@@ -2,6 +2,7 @@
 
 ## AWS Organizations - (Manage multiple AWS accounts centrally.)
 
+- Groups of AWS accounts, can be nested.
 - **MASTER ACCOUNT**: The management account, the one that have created the Organization.
 - **Consolidated Billing** across all accounts.
 - **Cost benefits**:
