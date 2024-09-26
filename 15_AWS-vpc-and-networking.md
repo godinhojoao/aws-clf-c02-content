@@ -45,15 +45,15 @@
 
 ## Network ACL and Security Groups
 
-  - ### Network ACL - Access Control List -> SUBNET LEVEL
+  - ### Network ACL - Access Control List -> SUBNET LEVEL (stateless, require rules for both allow and deny)
     - A firewall which **controlls traffic FROM and TO Subnet**.
-    - Can have ALLOW and DENY rules.
+    - Can have ALLOW and DENY rules. **stateless**
     - Are attached at the Subnet level.
     - Rules only includes IP addresses.
 
-  - ### Security Groups -> INSTANCE LEVEL
+  - ### Security Groups -> INSTANCE LEVEL (statefull)
     - A firewall which **controls traffic FROM and TO an EC2**.
-    - Can have only ALLOW rules.
+    - Can have only ALLOW rules. **statefull**
     - Rules include IP Address and other security groups.
 
 ## VPC Flow Logs
