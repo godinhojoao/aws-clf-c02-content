@@ -90,13 +90,13 @@
 
 ## Site to Site VPN and Direct Connect
 
-  - ### Site to Site VPN
+  - ### Site to Site VPN (encrypted internet-based connection,)
     - Connect an on-premises VPN to AWS.
     - The connection is automatically encrypted.
     - Goes over the **public internet**.
     - Example: <img src="https://docs.aws.amazon.com/images/vpn/latest/s2svpn/images/vpn-how-it-works-vgw.png">
     - You need a **Customer Gateway** and a **Virtual Private Gateway**.
-  - ### Direct Connect (DX) -> private network connection from on-premise to AWS
+  - ### Direct Connect (DX) -> (dedicated private connection to AWS)
     - Physical connection between on-premises and AWS.
     - The connection is private, secure and fast.
     - Goes over a **private network**.
