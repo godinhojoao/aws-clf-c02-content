@@ -135,9 +135,6 @@ Example of the structure of resource based policies:
 - Use Access Keys for Programmatic Access (CLI/SDK).
 - Never share IAM users and Access keys.
 
-## Important!
-- **Principal** Who is authorized to access something. (IAM user, root user, role, application, etc..)
-
 ## Shared responsibility Model for IAM
 - AWS -> security OF the cloud: infrastructure (global network), vulnerability analysis, compliance validation.
 - USER -> security IN the cloud:
@@ -146,6 +143,10 @@ Example of the structure of resource based policies:
   - Rotate your access keys and credentials often.
   - Using IAM tools to apply appropriate permissions.
   - Analyze access patterns to review permissions. (IAM Credentials Report and Access Advisor)
+
+## Important!
+- **Principal** Who is authorized to access something. (IAM user, root user, role, application, etc..)
+- **Programmatic access**: Only needs **secret access key** and **an access key ID**. DON'T NEED USER ID.
 
 ## Reference
 
