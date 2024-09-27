@@ -2,7 +2,7 @@
 
 - Just a quick summary
 
-## WorkSpaces - (DESKTOP as a service)
+## WorkSpaces - (DESKTOP as a service) DaaS
 
 - Amazon WorkSpaces is a managed, secure Desktop-as-a-Service (DaaS) solution that allows users to provision Windows or Linux desktops in the cloud. It simplifies desktop management and provides users with access to their desktop environments from anywhere.
 
