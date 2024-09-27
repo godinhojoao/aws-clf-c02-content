@@ -39,3 +39,7 @@
   - 3rd party: Active Directory, OneLogin...
 - **Example of usage**:
   - You log in at a specific URL -> access the AWS IAM Identity Center portal -> view the AWS accounts you have access to using these credentials -> choose an account and perform the necessary tasks.
+
+## !Important
+- **AWS IAM Identity Center**: Provides SSO on aws account - single sign on.
+- **Amazon Cognito**: Provides social login for your web and mobile applications.

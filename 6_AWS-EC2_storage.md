@@ -102,6 +102,11 @@
   - Responsibility of any data on the drives.
   - Understanding the risk of using EC2 Instance Store and losing the storage if EC2 Stops or any hardware fails.
 
+## !Important
+
+- **Elastic File System (EFS)**: Multiple users using concurrently **AT SAME TIME**, files/folders, directories.
+- **AMI**: Must be the same region of EC2 instance. Performance doesn't change because of the region.
+
 ## Reference
 
 - https://docs.aws.amazon.com/ebs/latest/userguide/what-is-ebs.html

@@ -60,6 +60,9 @@
 - **Use cases**: Simple web applications and Websites.
 - Has high availability but no auto-scaling, limited AWS integrations.
 
+## !Important
+- **Lambda && AWS Fargate**: Serverless Computing Services.
+
 ## Reference
 
 - https://docs.aws.amazon.com/AmazonECR/latest/userguide/what-is-ecr.html

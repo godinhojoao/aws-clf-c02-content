@@ -74,3 +74,6 @@
   - **Awareness & Training:** AWS trains AWS employees, but a customer must train their own employees.
 - **Customer Specific:** Which are exclusively the responsibility of the customer based on how they use AWS services.
   - Service and Data Security: Customers may need to manage how data is routed and secured within specific environments.
+
+## !Important
+- **Configuration Management** is a shared responsibility.

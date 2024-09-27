@@ -163,6 +163,12 @@
   - Homogeneous migrations: Oracle to Oracle.
   - Heterogeneous migrations: Microsoft SQL Server to Aurora.
 
+## !Important
+- Dynamodb is a great option to store data for a recommendation engine with LEAST operational overhead.
+- RDS and other databases:
+  - **Read replica single-AZ**: High Scalability
+  - **Multi-AZ / multi-region**: High Availability (fault tolerance)
+
 ## Reference
 
 - https://aws.amazon.com/rds/

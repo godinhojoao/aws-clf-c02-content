@@ -99,3 +99,6 @@
 
 - Match EC2 instances to workload needs for cost optimization.
 - Use **CloudWatch**, **Cost Explorer**, and **Trusted Advisor** for ongoing adjustments.
+
+## !Important
+- **Operational Excellence**: Having infrastucture as Code (IaC), CI/CD pipelines...

@@ -113,3 +113,6 @@
   - You need to manage: Applications, Data.
   - Managed by others (AWS): Runtime, OS, Middleware, Virtualization, Servers, Storage, Networking.
 - **SaaS:** Everything is managed by others.
+
+## !Important
+- **Advantages of Cloud**: Speed and Agility, stop guessing capacity.

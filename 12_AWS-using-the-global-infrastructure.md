@@ -140,6 +140,10 @@
   - [ ] Improved Global **Write Latency** -> Not global, because one Region is only read.
   - [X] Higher difficulty to setup
 
+## !Important
+- **AWS Local Zones**: Low latency to end users. **compute and storage closer to users**
+- **AWS Wavelength**: Ultra-low latency 5g **mobile, etc..**
+
 ## Reference
 
 - https://www.cloudflare.com/learning/cdn/glossary/anycast-network/

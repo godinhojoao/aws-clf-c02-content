@@ -223,6 +223,11 @@
     - File gateway; Volume gateway; Tape gateway
     - Behind the scenes it is using: EBS, S3 and Glacier
 
+## !Important
+- **Encryption by default**: AWS Storage Gateway && Amazon Simple Storage Service (Amazon S3)
+- **AWS Macie**: Machine learning to discover and protect data and also **AWS S3** (security and data privacy service).
+- **S3 One Zone-Infrequent Access (S3 One Zone-IA)**: less frequent access but needs to be fast when needed.
+
 ## Reference
 
 - https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html

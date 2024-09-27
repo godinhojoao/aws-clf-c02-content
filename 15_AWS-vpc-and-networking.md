@@ -67,7 +67,7 @@
   - Internet to subnets
 - VPC Flow Logs can go to S3, CloudWatch Logs, and Kinesis Data Firehose
 
-## VPC Peering
+## VPC Peering -> connection between VPCs
 - **Connect two or more VPCs**, privately using AWS network.
 - **Make them behave as if they were in the same network.**
 - Must not have overlapping CIDR (IP address range)
@@ -114,3 +114,5 @@
 ## !Important
 - **Site to site VPN**: encrypted internet-based connection
 - **Direct connect**: dedicated private connection to AWS (without ISPs)
+- **VPC Peering**: Connection between VPCs
+- **VPC Endpoints**: Connection between VPC and AWS Service

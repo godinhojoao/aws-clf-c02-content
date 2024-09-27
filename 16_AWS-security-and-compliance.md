@@ -231,3 +231,8 @@
 - **Zone of Trust**: AWS Account or AWS Organization
   - Reports and blocks access attempts from outside the Zone of Trust.
   - For example, if an external client tries to access an S3 bucket within the Zone of Trust, it will be blocked and flagged as a security risk.
+
+## !Important
+- **MFA with physical device**: U2F security key
+- **MFA without physical device**: Virtual Multi-Factor Authentication (MFA)
+- **CloudTrail**: See if the company meets the **governance, compliance and auditing norms**.

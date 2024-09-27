@@ -172,3 +172,8 @@
 
 # Summary:
 - The AWS billing framework includes various pricing models, such as On-Demand, Reserved, and Spot Instances for EC2, alongside pay-per-use options for Lambda and ECS. Key storage options include tiered pricing for S3 and performance-based pricing for EBS. Tools like the AWS Pricing Calculator, Billing Dashboard, and Cost Explorer help monitor and manage costs effectively. Additionally, features like cost anomaly detection and tagging enhance cost tracking, while AWS support plans offer tailored assistance for resource optimization.
+
+## !Important
+- **AWS Compute Optimizer**: EBS, lambda, ec2, ec2 auto scaling. (COMPUTE)
+- **How to identify under-utilized EC2 instances**: AWS Cost Explorer && AWS Trusted Advisor
+- Identify under-utilized resource = AWS Trusted Advisor

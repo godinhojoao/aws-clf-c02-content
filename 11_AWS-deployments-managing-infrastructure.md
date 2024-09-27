@@ -112,6 +112,10 @@
 
 ## Remember: CloudFormation and Elastic Beanstalk are free of use.
 
+## !Important
+- **AWS CloudFormation**: templates, that you can replicate across regions
+- **AWS SSM Session Manager**: connect on EC2 instance shell without SSH, without opening new ports.
+
 ## Reference
 
 - https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/what-is-cloudformation.html
