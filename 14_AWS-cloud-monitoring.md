@@ -109,3 +109,7 @@
   ### - Your account - status of AWS services of your account resources
     - Provides alerts (notifications) and remediation guidance when AWS is experiencing events that may impact you.
     - AWS outages directly impact you.
+
+## !Important
+- Alerts = CloudWatch.
+  - For example, how to know if your aws root account is being used? **CloudWatch + CloudTrail sign-in alerts**
