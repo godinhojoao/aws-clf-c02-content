@@ -78,6 +78,9 @@
   - Fully managed and compatible with CodeBuild, CodeDeploy, Elastic Beanstalk, CloudFormation, github, and more.
   - Fast delivery and rapid updates.
 
+## AWS CodeStar
+- Simplifies setting up, managing, and collaborating on software development projects using AWS services.
+
 ## AWS CodeArtifact
 - Can be used to manage the dependencies (packages) of your application. For example the node_modules with npm.
 - Stores and retrieve these dependencies is called **artifact management**.
