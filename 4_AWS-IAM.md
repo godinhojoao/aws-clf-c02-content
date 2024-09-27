@@ -84,7 +84,7 @@ Example of the structure of resource based policies:
   "Statement": [
     {
       "Effect": "Allow",
-      "Principal": { // Who is receiving acces to the resource
+      "Principal": { // Who is receiving access to the resource
         "AWS": "arn:aws:iam::123456789012:user/ExampleUser"
       },
       "Action": "s3:GetObject",
@@ -134,6 +134,9 @@ Example of the structure of resource based policies:
 - Create and use IAM Roles for giving permissions to AWS Services.
 - Use Access Keys for Programmatic Access (CLI/SDK).
 - Never share IAM users and Access keys.
+
+## Important!
+- **Principal** Who is authorized to access something. (IAM user, root user, role, application, etc..)
 
 ## Shared responsibility Model for IAM
 - AWS -> security OF the cloud: infrastructure (global network), vulnerability analysis, compliance validation.
