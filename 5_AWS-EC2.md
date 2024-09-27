@@ -121,6 +121,13 @@
 - EC2 has a limit of VCPU, instances per region, security groups.
   - **Hard limits**: cannot be changed. Example: (e.g., network interfaces per instance, security groups, etc...)
   - **Soft limits**: we can request more. Example: (e.g., vCPU limits per region).
+- **About instance types**:
+  - **Spot instances**: Handle interruptions well.
+  - **On-demand instances**: Flexible workload
+  - **Reserved instances**: Predictable workloads, saving costs.
+  - **Dedicated instances**: Isolated hardware to meet compliance.
+  - **Savings Plans**: For cost-effective, flexible usage across instance types.
+
 
 ## Shared responsibility Model for EC2 (IaaS)
 - AWS -> security OF the cloud: infrastructure, isolation on physical hosts, replacing faulty hardware, compliance validation.
