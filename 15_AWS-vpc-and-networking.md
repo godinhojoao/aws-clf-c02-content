@@ -90,7 +90,7 @@
 
 ## Site to Site VPN and Direct Connect
 
-  - ### Site to Site VPN (encrypted internet-based connection,)
+  - ### Site to Site VPN (encrypted internet-based connection)
     - Connect an on-premises VPN to AWS.
     - The connection is automatically encrypted.
     - Goes over the **public internet**.
@@ -110,3 +110,7 @@
 ## Amazon Transit Gateway
 - The way AWS provides to connect thousands of VPCs together, on AWS cloud but also with on-premise infrastructure.
 - One single Gateway to provide this functionality, works with Direct Connect, VPC Gateway, VPN connections...
+
+## !Important
+- **Site to site VPN**: encrypted internet-based connection
+- **Direct connect**: dedicated private connection to AWS (without ISPs)
