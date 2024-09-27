@@ -73,6 +73,17 @@
 - **Predictive Scaling**: Uses machine learning to predict future traffic ahead of time.
   - Automatically provisions the right number of EC2 instances in advance.
 
+## Important!
+
+- **Application Load Balancer (ALB)**: Routes HTTP/HTTPS/gRPC traffic to EC2 instances using Layer 7 features.
+  - Example: Communicate with ports 80 (HTTP) and 443 (HTTPS).
+  - **Use Case**: Load balancing web applications with URL-based routing.
+- **Network Load Balancer (NLB)**: Distributes high-performance TCP/UDP traffic to EC2 instances with Layer 4 capabilities.
+  - Example: Handle millions of requests per second for gaming or IoT applications.
+- **Gateway Load Balancer (GWLB)**: Analyzes IP packets with the GENEVE protocol for security before routing to EC2 instances.
+  - Example: Routing traffic to firewalls for intrusion detection.
+- **Classic Load Balancer (CLB)**: Legacy applications.
+
 ## Reference
 
 - https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html
