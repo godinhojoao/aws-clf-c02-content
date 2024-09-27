@@ -117,6 +117,11 @@
     - Even using or not you will pay for that in the On-Demand style.
     - Short-term uninterrupted workload that needs to be in a specific AZ.
 
+## Important!
+- EC2 has a limit of VCPU, instances per region, security groups.
+  - **Hard limits**: cannot be changed. Example: (e.g., network interfaces per instance, security groups, etc...)
+  - **Soft limits**: we can request more. Example: (e.g., vCPU limits per region).
+
 ## Shared responsibility Model for EC2 (IaaS)
 - AWS -> security OF the cloud: infrastructure, isolation on physical hosts, replacing faulty hardware, compliance validation.
 - USER -> security IN the cloud:
