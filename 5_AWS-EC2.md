@@ -127,7 +127,7 @@
   - **Reserved instances**: Predictable workloads, saving costs.
   - **Dedicated instances**: Isolated hardware to meet compliance.
   - **Savings Plans**: For cost-effective, flexible usage across instance types.
-
+- **AWS SSM - Systems Manager**: Automates patching and script execution across instances for streamlined management.
 
 ## Shared responsibility Model for EC2 (IaaS)
 - AWS -> security OF the cloud: infrastructure, isolation on physical hosts, replacing faulty hardware, compliance validation.
