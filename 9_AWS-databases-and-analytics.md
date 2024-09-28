@@ -168,6 +168,8 @@
 - RDS and other databases:
   - **Read replica single-AZ**: High Scalability
   - **Multi-AZ / multi-region**: High Availability (fault tolerance)
+- **Amazon Elastic MapReduce (EMR)**: Analyze and process Big data.
+- **Amazon Athena**: Serverless query service to **perform analytics on S3**. SQL based analysis
 
 ## Reference
 

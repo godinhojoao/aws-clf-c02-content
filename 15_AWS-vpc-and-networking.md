@@ -8,7 +8,7 @@
 - Transit Gateway
 
 ## Ip Addresses in AWS
-- **IPV4 - Internet Protocl version 4 (4.3 Billion Addresses)**
+- **IPV4 - Internet Protocol version 4 (4.3 Billion Addresses)**
   - **Public IPV4** - can be used on the internet
     - EC2 instance gets a new public IP address every time you stop then start it (default)
   - **Private IPV4** - can be used on private netwroks (LAN) such as internal AWS networking (e.g 192.168.1.1)
@@ -16,7 +16,7 @@
   - **AWS Elastic IP** - Allows you to attach a fixed public IPV4 address to EC2 instance.
   - **Pricing for all public IPV4**: $0.005 per hour (including EIP)
     - Free tier 750 hours usage per month.
-- **IPV6 - Internet Protocl version 6 (3.4 * 10^38 Addresses)**
+- **IPV6 - Internet Protocol version 6 (3.4 * 10^38 Addresses)**
   - Every IP address is public in AWS (no private range)
   - Example: 2001:0000:130F:0000:0000:09C0:876A:130B
   - Free
@@ -116,3 +116,12 @@
 - **Direct connect**: dedicated private connection to AWS (without ISPs)
 - **VPC Peering**: Connection between VPCs
 - **VPC Endpoints**: Connection between VPC and AWS Service
+- **Internet Gateway**:
+  - Connects a VPC to the internet.
+  - Public subnets are associated with an Internet Gateway, allowing instances in those subnets to communicate with the internet.
+- **NAT Gateway and NAT Instance**: Used to connect private subnets to the internet. (**Preventing inbound traffic just allows outbound**)
+- **Network ACL**: subnet level, stateless (allow and deny rules).
+- **Security groups**: instance level, statefull (allow rules).
+- **AWS Private Link**: to connect 1000s VPCs to AWS services. (VPC <-> AWS service); "like vpc endpoint"
+- **Amazon Transit Gateway**: connect 1000s of (VPCs <-> VPCs); "like vpc peering"
+- **Amazon VPC**: encompasses all **Availability Zones in a region**, while a **Subnet** is confined to a **single Availability Zone**.

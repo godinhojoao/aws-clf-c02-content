@@ -143,6 +143,8 @@
 ## !Important
 - **AWS Local Zones**: Low latency to end users. **compute and storage closer to users**
 - **AWS Wavelength**: Ultra-low latency 5g **mobile, etc..**
+- **Transfer Acceleration**: Increase file transfer speed globally on S3 bucket.
+- **Global Accelerator**: Helps with **global application availability and performance** using the **AWS global Network**.
 
 ## Reference
 

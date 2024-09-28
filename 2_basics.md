@@ -115,4 +115,6 @@
 - **SaaS:** Everything is managed by others.
 
 ## !Important
-- **Advantages of Cloud**: Speed and Agility, stop guessing capacity.
+- **Advantages of Cloud**:
+  - Speed and Agility, stop guessing capacity.
+  - Trade fixed expenses for variable expenses. -> cost-effective, adapt fast to business changes

@@ -34,7 +34,7 @@
   - Inbound to internet
   - To/from Direct Connect and Site-to-Site VPN
 
-## AWS Firewall Manager
+## AWS Firewall Manager - if you need to meet compliance and security needs within an AWS organization / AWS account
 
 - Manage security rules in all accounts of an AWS Organization. (WAF, SHIELD...)
 - Security policy: common set of security rules
@@ -236,3 +236,6 @@
 - **MFA with physical device**: U2F security key
 - **MFA without physical device**: Virtual Multi-Factor Authentication (MFA)
 - **CloudTrail**: See if the company meets the **governance, compliance and auditing norms**.
+- **AWS Artifact**: Provides AWS **security and compliance documentation** with **REPORTS** and etc.
+- **AWS Shield**: is a global service.
+- **AWS WAF**: web common vulnerabilities and can also block geographies.

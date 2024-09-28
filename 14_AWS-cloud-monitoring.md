@@ -111,5 +111,8 @@
     - AWS outages directly impact you.
 
 ## !Important
-- Alerts = CloudWatch.
+- Alerts = CloudWatch. (except for **AWS Budgets** that is monitoring costs)
   - For example, how to know if your aws root account is being used? **CloudWatch + CloudTrail sign-in alerts**
+  - **CloudWatch** primarily monitors **performance metrics** for AWS resources (e.g., CPU, memory, logs, etc.) and can generate **alerts based on those metrics**.
+  - **AWS Budgets** is the service **specifically** used for **cost monitoring** and setting **spending alerts**.
+- **AWS X-Ray**: monitor and debug distributed applications by providing insights into performance, request tracing, and error detection. --> you can check end-to-end user requests made in the applications

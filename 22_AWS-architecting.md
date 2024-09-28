@@ -89,6 +89,7 @@
 - **Platform Perspective**: Build a scalable cloud platform.
 - **Security Perspective**: Ensure data confidentiality and integrity.
 - **Operations Perspective**: Deliver services that meet business needs.
+- <img src="./images/aws-caf.png" />
 
 ## AWS Cloud Transformation
 
@@ -102,3 +103,8 @@
 
 ## !Important
 - **Operational Excellence**: Having infrastucture as Code (IaC), CI/CD pipelines...
+- **AWS Well architected framework pillars**:
+  - Operational excellence, security, reliability, performance effiency, cost optimization, sustainability.
+  - **IMPORTANT**: Elasticity, Availability, and Scalability are **AWS principles**, **not AWS Well Architected Framework pillars**.
+- **AWS Cloud Adoption Framework CAF**:
+  - Business, people, governane, platform, operations.

@@ -42,3 +42,4 @@
 
 ## !Important
 - **Amazon MarketPlace**: Sell SaaS and buy custom AMIs
+- **AWS Acceptable Use Policy**: Describes also **prohibited uses of the web services**.

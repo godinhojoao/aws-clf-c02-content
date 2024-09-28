@@ -106,6 +106,7 @@
 
 - **Elastic File System (EFS)**: Multiple users using concurrently **AT SAME TIME**, files/folders, directories.
 - **AMI**: Must be the same region of EC2 instance. Performance doesn't change because of the region.
+- **Elastic Block Storage (EBS)**: locked on AZ and replicated in the same AZ by aws.
 
 ## Reference
 

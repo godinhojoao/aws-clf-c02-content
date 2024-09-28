@@ -73,8 +73,9 @@
 - **Predictive Scaling**: Uses machine learning to predict future traffic ahead of time.
   - Automatically provisions the right number of EC2 instances in advance.
 
-## Important!
+## !Important
 
+- **Elastic Load Balancer**: is an example of elasticity principle.
 - **Application Load Balancer (ALB)**: Routes HTTP/HTTPS/gRPC traffic to EC2 instances using Layer 7 features.
   - Example: Communicate with ports 80 (HTTP) and 443 (HTTPS).
   - **Use Case**: Load balancing web applications with URL-based routing.

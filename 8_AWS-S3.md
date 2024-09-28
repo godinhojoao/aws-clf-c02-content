@@ -215,7 +215,7 @@
   - File: Amazon EFS
   - Object storage: Amazon S3 or Glacier
 
-- ### AWS Storage Gateway
+- ### AWS Storage Gateway -> Seamless Hybrid Cloud Storage Integration for Backup and Disaster Recovery
   - Bridge between on-premise data and cloud data in Amazon S3.
   - Hybrid storage to seamlessly use the AWS Cloud.
   - Use cases: disaster recovery, backup & restore, tiered storage.
@@ -227,6 +227,10 @@
 - **Encryption by default**: AWS Storage Gateway && Amazon Simple Storage Service (Amazon S3)
 - **AWS Macie**: Machine learning to discover and protect data and also **AWS S3** (security and data privacy service).
 - **S3 One Zone-Infrequent Access (S3 One Zone-IA)**: less frequent access but needs to be fast when needed.
+  - **S3 One Zone-IA**: Infrequently accessed, less critical data, single AZ, fast retrieval (risk of data loss).
+  - **Glacier Instant Retrieval**: Archival of critical data, multi-AZ, fast retrieval when needed (higher reliability and availability).
+- **AWS Storage Gateway**: Hybrid cloud storage integration, **backup and disaster recovery**.
+
 
 ## Reference
 

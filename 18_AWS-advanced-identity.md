@@ -43,3 +43,4 @@
 ## !Important
 - **AWS IAM Identity Center**: Provides SSO on aws account - single sign on.
 - **Amazon Cognito**: Provides social login for your web and mobile applications.
+- **Federated Identities**: allow users to authenticate with external identity providers and access AWS resources using temporary credentials. -> use case **if your company merges with another one and new employees need to access aws resources.**

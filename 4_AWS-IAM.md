@@ -144,7 +144,7 @@ Example of the structure of resource based policies:
   - Using IAM tools to apply appropriate permissions.
   - Analyze access patterns to review permissions. (IAM Credentials Report and Access Advisor)
 
-## Important!
+## !Important
 - **Principal** Who is authorized to access something. (IAM user, root user, role, application, etc..)
 - **Programmatic access**: Only needs **secret access key** and **an access key ID**. DON'T NEED USER ID.
 

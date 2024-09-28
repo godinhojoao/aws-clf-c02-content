@@ -174,6 +174,14 @@
 - The AWS billing framework includes various pricing models, such as On-Demand, Reserved, and Spot Instances for EC2, alongside pay-per-use options for Lambda and ECS. Key storage options include tiered pricing for S3 and performance-based pricing for EBS. Tools like the AWS Pricing Calculator, Billing Dashboard, and Cost Explorer help monitor and manage costs effectively. Additionally, features like cost anomaly detection and tagging enhance cost tracking, while AWS support plans offer tailored assistance for resource optimization.
 
 ## !Important
-- **AWS Compute Optimizer**: EBS, lambda, ec2, ec2 auto scaling. (COMPUTE)
+- **AWS Compute Optimizer**: EBS, Lambda, EC2, EC2 Auto Scaling (COMPUTE)
+  - Works for **EBS** because it's directly coupled to EC2 instances (compute resources).
+  - **S3** and **EFS** are managed services and not tightly integrated with EC2 for performance optimization.
 - **How to identify under-utilized EC2 instances**: AWS Cost Explorer && AWS Trusted Advisor
 - Identify under-utilized resource = AWS Trusted Advisor
+- **Total Cost of Ownership TCO Calculator**: compare on premise costs vs aws
+- **EC2 reserved instances**
+  - **All Upfront**: Highest discount, pay in full upfront.
+  - **Partial Upfront**: Moderate discount, pay a portion upfront and the rest monthly.
+  - **No Upfront**: Lowest discount, pay monthly without any upfront cost.
+**AWS Consolidated Billing** allows you to combine multiple AWS accounts into a single bill, offering centralized management of costs and usage across all accounts in an AWS Organization.
